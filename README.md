@@ -19,3 +19,6 @@ This is a small flask app which creates an API to allow fetching of the provided
   * Command prompt: set FLASK_APP=".\app.py"
   * Powershell: $env:FLASK_APP=".\app.py"
 * Start the flask application with "flask run"
+
+\
+![Have fun!](https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fmedia.riffsy.com%2Fimages%2Fd8ad96789bf5e1ecfa25a9b3455762fc%2Ftenor.gif&f=1)
