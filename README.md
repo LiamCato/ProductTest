@@ -5,8 +5,8 @@ This is a small flask app which creates an API to allow fetching of the provided
 ## Requirements
 
 * A Python 3.x version (written using version 3.6.0)
-* Python's Flask module
-* Python's request module
+* Python's Flask module (pip install Flask)
+* Python's request module (pip install requests)
 
 ## Usage
 
